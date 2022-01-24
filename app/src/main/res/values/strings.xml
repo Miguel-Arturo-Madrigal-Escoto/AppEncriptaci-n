@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MMEncryption</string>
+    <string name="accion_encriptar">Encriptar</string>
+    <string name="accion_desencriptar">Desencriptar</string>
+    <string name="archivo">Nombre del archivo</string>
+    <string name="crear">Crear archivo</string>
+    <string name="guardar">Guardar archivo</string>
+    <string name="ingresar_texto">Ingresa el texto a guardar</string>
+    <string name="leer">Leer archivo</string>
+    <string name="volver">Volver</string>
+    <string name="no_encontrado">Archivo no encontrado</string>
+    <string name="no_nombre">Archivo: </string>
+    <string name="clave_text">Ingresa la clave</string>
+</resources>
